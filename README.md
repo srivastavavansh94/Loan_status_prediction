@@ -2,7 +2,7 @@
 
 In this project of loan status prediction, we have build a machine learning model which will predict whether a user is eligible for a personal loan or not by taking input of few parameters which are :
 
-1.Loan_ID	
+1.Loan_ID
 2.Gender
 3.Married
 4.Dependents	
